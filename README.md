@@ -2,6 +2,13 @@
 
 This repository contains the code for the paper "ORSO: Accelerating Reward Design via Online Reward Selection and Policy Optimization".
 
+<div align="center">
+
+[arXiv (coming soon)]() | [Website](https://calvincbzhang.github.io/orso-website/)
+
+</div>
+
+
 # Installation
 ORSO requires Python ≥ 3.8
 
