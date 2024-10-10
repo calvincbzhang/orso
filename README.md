@@ -8,7 +8,6 @@ This repository contains the code for the paper "ORSO: Accelerating Reward Desig
 
 </div>
 
-
 # Installation
 ORSO requires Python ≥ 3.8
 
