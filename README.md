@@ -4,7 +4,7 @@ This repository contains the code for the paper "ORSO: Accelerating Reward Desig
 
 <div align="center">
 
-[arXiv (coming soon)]() | [Website](https://calvincbzhang.github.io/orso-website/)
+[arXiv](https://arxiv.org/abs/2410.13837) | [Website](https://calvincbzhang.github.io/orso-website/)
 
 </div>
 
